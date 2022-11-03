@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import AccountContainer from "./AccountContainer";
 
 function App() {
-  const url = 'http://localhost:8001/transactions'
+  const url = 'https://react-codechallenges.herokuapp.com/transactions'
   const [transactions, setTransactions] = useState([])
   
   useEffect(() => {
