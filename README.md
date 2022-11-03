@@ -40,6 +40,9 @@ If you are unfamiliar with HTML tables, take a look at the
 
 The base URL for your backend is: `http://localhost:8001`
 
+## Deployed backend URL
+[DB json](https://react-codechallenges.herokuapp.com/transactions)
+
 ## Core Deliverables
 
 As a user, I should be able to:
